@@ -1,4 +1,4 @@
-Shadowsocks for Windows
+Yos for Windows
 =======================
 
 [![Build Status]][Appveyor]
